@@ -1,2 +1,2 @@
 # westmont
-collection of small business tools
+This is a collection of tools for small business owners.
